@@ -1,2 +1,2 @@
-Hypothesis Testing with Insurance Data
+Impact of region, gender on insurance charges
  
